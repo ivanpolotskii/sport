@@ -1,0 +1,115 @@
+html, body{
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+.add{
+    margin:0 auto;
+    width: 70px;
+    text-align: center;
+    border: 3px solid #000;
+}
+.zagol{
+    width: 100%;
+}
+.text{
+    height: 200px;
+    width:100%;
+}
+.over{
+    background-color: black;
+    height: max-content;
+    height: 100%;
+    opacity: 0.7;
+}
+.zapis{
+    margin: 0 auto;
+    width: 80%;
+    /* border: 3px solid green; */
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.addbutt{
+    width: 70px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: #fff;
+    
+}
+.text, .tex{
+    width: 100%;
+    border: 1px solid #000;
+    margin-bottom: 2px;
+}
+.zagol, .zag{
+    width: 100%;
+    margin-bottom: 1px;
+    border: 1px solid #000;
+}
+
+
+
+.over2{
+    display: none;
+    background-color: black;
+    height: max-content;
+    height: 100%;
+    opacity: 0.7;
+}
+.zapis2{
+    margin: 0 auto;
+    width: 80%;
+    /* border: 3px solid green; */
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+.okbutt{
+    width: 70px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+    background-color: #fff;
+    
+}
+.text2, .tex2{
+    width: 100%;
+    border: 1px solid #000;
+    margin-bottom: 2px;
+}
+.zagol2, .zag2{
+    width: 100%;
+    margin-bottom: 1px;
+    border: 1px solid #000;
+}
+.zagol2{
+    width: 100%;
+}
+.text2{
+    height: 200px;
+    width:100%;
+}
+
+
+
+
+
+.chapter-item{
+    border: 1px solid rgb(0, 0, 0);
+    width:70%;
+    height: 30px;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+}
+.idi{
+    display: none;
+}
